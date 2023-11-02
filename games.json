@@ -528,7 +528,7 @@
       "complexity": 3,
       "learned": true,
       "played": true,
-      "rate": 0,
+      "rate": 1,
       "link": "",
       "comment": ""
     },
@@ -710,7 +710,7 @@
       "complexity": 2,
       "learned": true,
       "played": true,
-      "rate": 0,
+      "rate": 1,
       "link": "https://boardgamearena.com/gamepanel?game=goodcopbadcop",
       "comment": "O jogo é simples e não funcionou muito bem. E é muito feio."
     },
