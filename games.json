@@ -176,10 +176,10 @@
       "time": 8,
       "complexity": 1,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 2,
       "link": "",
-      "comment": "Simples. Pode ser o novo pega em 6!"
+      "comment": "Jogo simples de escalada. Funciona bem em grupo."
     },
     {
       "title": "13 Clues",
