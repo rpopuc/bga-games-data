@@ -286,19 +286,6 @@
       "comment": ""
     },
     {
-      "title": "Crime Zoom",
-      "name": "crimezoom",
-      "minPlayers": 1,
-      "maxPlayers": 6,
-      "time": 32,
-      "complexity": 2,
-      "learned": false,
-      "played": false,
-      "rate": 0,
-      "link": "",
-      "comment": ""
-    },
-    {
       "title": "Sushi Go",
       "name": "sushigo",
       "minPlayers": 2,
@@ -669,9 +656,9 @@
       "maxPlayers": 8,
       "time": 20,
       "complexity": 2,
-      "learned": false,
+      "learned": true,
       "played": false,
-      "rate": 0,
+      "rate": 1,
       "link": "https://boardgamearena.com/gamepanel?game=challengers",
       "comment": ""
     },
