@@ -804,5 +804,18 @@
       "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=arnak",
       "comment": ""
+    },
+    {
+      "title": "Lucky Numbers",
+      "name": "luckynumbers",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "time": 5,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=luckynumbers",
+      "comment": ""
     }
 ]
