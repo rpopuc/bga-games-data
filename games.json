@@ -179,7 +179,7 @@
       "played": true,
       "rate": 2,
       "link": "",
-      "comment": "Jogo simples de escalada. Funciona bem em grupo."
+      "comment": "Jogo simples de escalada. Funciona muito bem em grupo."
     },
     {
       "title": "13 Clues",
@@ -267,7 +267,7 @@
       "time": 7,
       "complexity": "2,5",
       "learned": true,
-      "played": false,
+      "played": true,
       "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=turingmachine",
       "comment": "É mais simples do que aparenta. Pelo menos, no começo."
@@ -370,11 +370,11 @@
       "maxPlayers": 10,
       "time": 11,
       "complexity": 1,
-      "learned": false,
-      "played": false,
-      "rate": 0,
+      "learned": true,
+      "played": true,
+      "rate": 2,
       "link": "",
-      "comment": ""
+      "comment": "É um uno com uma ação a mais, que é Interferir: quando se pode jogar uma carta idêntica fora do seu turno."
     },
     {
       "title": "Dungeon Roll",
@@ -526,7 +526,7 @@
       "maxPlayers": 5,
       "time": 18,
       "complexity": 1,
-      "learned": false,
+      "learned": true,
       "played": false,
       "rate": 0,
       "link": "",
@@ -778,5 +778,31 @@
       "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=railroadink",
       "comment": "Bom. Só demora um pouco mais do que deveria."
+    },
+    {
+      "title": "Century",
+      "name": "century",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "time": 16,
+      "complexity": 3,
+      "learned": true,
+      "played": false,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=century",
+      "comment": ""
+    },
+    {
+      "title": "Arnak",
+      "name": "arnak",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "time": 35,
+      "complexity": 3,
+      "learned": true,
+      "played": true,
+      "rate": 3,
+      "link": "https://boardgamearena.com/gamepanel?game=arnak",
+      "comment": ""
     }
-  ]
+]
