@@ -487,9 +487,9 @@
       "maxPlayers": 4,
       "time": 18,
       "complexity": 2,
-      "learned": false,
-      "played": false,
-      "rate": 0,
+      "learned": true,
+      "played": true,
+      "rate": 3,
       "link": "",
       "comment": ""
     },
