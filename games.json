@@ -265,7 +265,7 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "time": 7,
-      "complexity": "2,5",
+      "complexity": 2.5,
       "learned": true,
       "played": true,
       "rate": 3,
@@ -754,19 +754,6 @@
       "comment": "Funciona bem com, no máximo, 4 jogadores."
     },
     {
-      "title": "Vault",
-      "name": "vault",
-      "minPlayers": 1,
-      "maxPlayers": 12,
-      "time": 11,
-      "complexity": 1,
-      "learned": true,
-      "played": false,
-      "rate": 1,
-      "link": "https://boardgamearena.com/gamepanel?game=vault",
-      "comment": "Uso de dados para destravar chaves. Segue a ordem horária (é uma corrida). Pode-se somar, subtrair, reservar e rerolar. Porém, o jogo tá bem bugado ainda."
-    },
-    {
       "title": "Railroad Ink",
       "name": "railroadink",
       "minPlayers": 1,
@@ -829,6 +816,6 @@
       "played": true,
       "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=vaultdenofthieves",
-      "comment": "Usar os dados para destravar diamantes."
+      "comment": "Uso de dados para destravar chaves. Segue a ordem horária (é uma corrida). Pode-se somar, subtrair, reservar e rerolar."
     }
 ]
