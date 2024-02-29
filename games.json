@@ -398,7 +398,7 @@
       "complexity": 2,
       "learned": true,
       "played": true,
-      "rate": 0,
+      "rate": 2,
       "link": "",
       "comment": ""
     },
@@ -817,5 +817,18 @@
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=luckynumbers",
       "comment": "Colocar números em ordem crescente por coluna e linha. Pode descartar, pode substituir e usar peças da mesa."
+    },
+    {
+      "title": "Vault",
+      "name": "vaultdenofthieves",
+      "minPlayers": 2,
+      "maxPlayers": 12,
+      "time": 18,
+      "complexity": 3,
+      "learned": true,
+      "played": true,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=vaultdenofthieves",
+      "comment": "Usar os dados para destravar diamantes."
     }
 ]
