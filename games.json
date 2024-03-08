@@ -123,11 +123,11 @@
       "maxPlayers": 4,
       "time": 7,
       "complexity": 1,
-      "learned": false,
+      "learned": true,
       "played": false,
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=tucano",
-      "comment": ""
+      "comment": "Coleção de cartas como em sushi go e uso do tucano para ações especiais"
     },
     {
       "title": "12 Chip Trick",
@@ -817,5 +817,83 @@
       "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=vaultdenofthieves",
       "comment": "Uso de dados para destravar chaves. Segue a ordem horária (é uma corrida). Pode-se somar, subtrair, reservar e rerolar."
+    },
+    {
+      "title": "Romi Rami",
+      "name": "romirami",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "time": 21,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=romirami",
+      "comment": "Criar coleções de cartas, de acordo com os contratos exibidos. Além disso, há pontuação por objetivos globais."
+    },
+    {
+      "title": "MLEM",
+      "name": "mlem",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "time": 25,
+      "complexity": 3,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=mlem",
+      "comment": "Force sua sorte com rolagem de dados, com um comandante por rodada."
+    },
+    {
+      "title": "Captain Flip",
+      "name": "captainflip",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "time": 4,
+      "complexity": 2,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=captainflip",
+      "comment": "Colocação de peças no navio para obter moedas de ouro. Cada peça possui regras específicas."
+    },
+    {
+      "title": "Piraten Kapern",
+      "name": "piratenkapern",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "time": 6,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=piratenkapern",
+      "comment": "Force sua sorte com dados."
+    },
+    {
+      "title": "Chakra",
+      "name": "chakra",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "time": 7,
+      "complexity": 2,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=chakra",
+      "comment": ""
+    },
+    {
+      "title": "Alhambra",
+      "name": "alhambra",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "time": 30,
+      "complexity": 6,
+      "learned": true,
+      "played": true,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=alhambra",
+      "comment": "Construção da Alhambra."
     }
 ]
