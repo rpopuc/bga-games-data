@@ -124,7 +124,7 @@
       "time": 7,
       "complexity": 1,
       "learned": true,
-      "played": false,
+      "played": true,
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=tucano",
       "comment": "Coleção de cartas como em sushi go e uso do tucano para ações especiais"
@@ -895,5 +895,18 @@
       "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=alhambra",
       "comment": "Construção da Alhambra."
+    },
+    {
+      "title": "Dobro",
+      "name": "dobro",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "time": 12,
+      "complexity": 0,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=alhambra",
+      "comment": "Uno com matemática. Tem que cobrir e se for igual, dobra. Se esquecer de repor carta, pega a palmatoria. Há cartas especiais."
     }
 ]
