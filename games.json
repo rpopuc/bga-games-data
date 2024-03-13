@@ -500,9 +500,9 @@
       "maxPlayers": 4,
       "time": 18,
       "complexity": 2,
-      "learned": false,
-      "played": false,
-      "rate": 0,
+      "learned": true,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=pandemic",
       "comment": ""
     },
