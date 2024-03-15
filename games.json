@@ -904,8 +904,8 @@
       "time": 12,
       "complexity": 0,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 1,
       "link": "https://boardgamearena.com/gamepanel?game=alhambra",
       "comment": "Uno com matemática. Tem que cobrir e se for igual, dobra. Se esquecer de repor carta, pega a palmatoria. Há cartas especiais."
     }
