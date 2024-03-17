@@ -908,5 +908,18 @@
       "rate": 1,
       "link": "https://boardgamearena.com/gamepanel?game=dobro",
       "comment": "Uno com matemática. Tem que cobrir e se for igual, dobra. Se esquecer de repor carta, pega a palmatoria. Há cartas especiais."
+    },
+    {
+      "title": "Qu4to",
+      "name": "quato",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "time": 13,
+      "complexity": 2,
+      "learned": true,
+      "played": true,
+      "rate": 1,
+      "link": "https://boardgamearena.com/gamepanel?game=quato",
+      "comment": "Jogue grupos de cartas. Ganhe pontos por ganhar com Qu4to. Ganhe pontos por limpar a mão."
     }
 ]
