@@ -188,9 +188,9 @@
       "maxPlayers": 6,
       "time": 10,
       "complexity": 2,
-      "learned": "-",
-      "played": false,
-      "rate": 0,
+      "learned": true,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=thirteenclues",
       "comment": ""
     },
@@ -448,11 +448,11 @@
       "maxPlayers": 5,
       "time": 15,
       "complexity": 2,
-      "learned": false,
-      "played": false,
-      "rate": 0,
+      "learned": true,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=kingdombuilder",
-      "comment": ""
+      "comment": "Colocação de peças para pontuar de acordo com as regras da partida."
     },
     {
       "title": "Trio",
