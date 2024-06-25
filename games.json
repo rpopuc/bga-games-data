@@ -947,5 +947,44 @@
       "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=metro",
       "comment": "Ligar linhas de metrô para fazer pontos."
+    },
+    {
+      "title": "Bag of Chips",
+      "name": "bagofchips",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "time": 6,
+      "complexity": 1,
+      "learned": false,
+      "played": false,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=bagofchips",
+      "comment": "Cálculos estatísticos."
+    },
+    {
+      "title": "Cartographers",
+      "name": "cartographers",
+      "minPlayers": 1,
+      "maxPlayers": 12,
+      "time": 14,
+      "complexity": 2,
+      "learned": true,
+      "played": false,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=cartographers",
+      "comment": "Marcação de locais para fazer pontos. E cincundar o monstro."
+    },
+    {
+      "title": "Citadels",
+      "name": "citadels",
+      "minPlayers": 2,
+      "maxPlayers": 8,
+      "time": 32,
+      "complexity": 3,
+      "learned": true,
+      "played": true,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=citadels",
+      "comment": "Construa 7 edifícios com a ajuda dos personagens e dinheiro."
     }
 ]
