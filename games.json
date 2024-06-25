@@ -372,7 +372,7 @@
       "complexity": 1,
       "learned": true,
       "played": true,
-      "rate": 2,
+      "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=solo",
       "comment": "É um uno com uma ação a mais, que é Interferir: quando se pode jogar uma carta idêntica fora do seu turno."
     },
@@ -921,5 +921,31 @@
       "rate": 1,
       "link": "https://boardgamearena.com/gamepanel?game=quato",
       "comment": "Jogue grupos de cartas. Ganhe pontos por ganhar com Qu4to. Ganhe pontos por limpar a mão."
+    },
+    {
+      "title": "Super Mega Lucky Box",
+      "name": "supermegaluckybox",
+      "minPlayers": 1,
+      "maxPlayers": 12,
+      "time": 10,
+      "complexity": 1,
+      "learned": true,
+      "played": true,
+      "rate": 3,
+      "link": "https://boardgamearena.com/gamepanel?game=supermegaluckybox",
+      "comment": "Bingo com power ups."
+    },
+    {
+      "title": "Metro",
+      "name": "metro",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "time": 21,
+      "complexity": 2,
+      "learned": true,
+      "played": true,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=metro",
+      "comment": "Ligar linhas de metrô para fazer pontos."
     }
 ]
