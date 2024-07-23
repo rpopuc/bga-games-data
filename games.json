@@ -986,5 +986,18 @@
       "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=citadels",
       "comment": "Construa 7 edifícios com a ajuda dos personagens e dinheiro."
+    },
+    {
+      "title": "Hidden Leaders",
+      "name": "hiddenleaders",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "time": 23,
+      "complexity": 2,
+      "learned": true,
+      "played": true,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=hiddenleaders",
+      "comment": "Faça uma das facções do seu líder vencer para vencer o jogo."
     }
 ]
