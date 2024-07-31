@@ -749,7 +749,7 @@
       "complexity": 1,
       "learned": true,
       "played": true,
-      "rate": 1,
+      "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=loveletter",
       "comment": "Funciona bem com, no máximo, 4 jogadores."
     },
@@ -999,5 +999,31 @@
       "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=hiddenleaders",
       "comment": "Faça uma das facções do seu líder vencer para vencer o jogo."
+    },
+    {
+      "title": "Exploding Kittens",
+      "name": "explodingkittens",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "time": 6,
+      "complexity": 1,
+      "learned": true,
+      "played": true,
+      "rate": 1,
+      "link": "https://boardgamearena.com/gamepanel?game=explodingkittens",
+      "comment": "Não deixe o gato explodir quando for comprar cartas."
+    },
+    {
+      "title": "Welcome To",
+      "name": "welcometo",
+      "minPlayers": 1,
+      "maxPlayers": 12,
+      "time": 13,
+      "complexity": 2,
+      "learned": true,
+      "played": false,
+      "rate": 1,
+      "link": "https://boardgamearena.com/gamepanel?game=welcometo",
+      "comment": "Construir melhores conjuntos habitacionais, com parques luxuosos e piscinas elegantes."
     }
 ]
