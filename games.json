@@ -1025,5 +1025,18 @@
       "rate": 1,
       "link": "https://boardgamearena.com/gamepanel?game=welcometo",
       "comment": "Construir melhores conjuntos habitacionais, com parques luxuosos e piscinas elegantes."
+    },
+    {
+      "title": "Tiny Turbo Cars",
+      "name": "tinyturbocars",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "time": 13,
+      "complexity": 2,
+      "learned": true,
+      "played": true,
+      "rate": 1,
+      "link": "https://boardgamearena.com/gamepanel?game=tinyturbocars",
+      "comment": "Programar movimento e chegar em primeiro."
     }
 ]
