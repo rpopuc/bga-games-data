@@ -528,7 +528,7 @@
       "complexity": 1,
       "learned": true,
       "played": false,
-      "rate": 0,
+      "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=carcassonne",
       "comment": ""
     },
@@ -658,7 +658,7 @@
       "complexity": 2,
       "learned": true,
       "played": false,
-      "rate": 1,
+      "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=challengers",
       "comment": ""
     },
@@ -775,7 +775,7 @@
       "complexity": 3,
       "learned": true,
       "played": false,
-      "rate": 2,
+      "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=century",
       "comment": ""
     },
@@ -957,7 +957,7 @@
       "complexity": 1,
       "learned": false,
       "played": false,
-      "rate": 2,
+      "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=bagofchips",
       "comment": "Cálculos estatísticos."
     },
@@ -970,7 +970,7 @@
       "complexity": 2,
       "learned": true,
       "played": false,
-      "rate": 2,
+      "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=cartographers",
       "comment": "Marcação de locais para fazer pontos. E cincundar o monstro."
     },
@@ -1022,7 +1022,7 @@
       "complexity": 2,
       "learned": true,
       "played": false,
-      "rate": 1,
+      "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=welcometo",
       "comment": "Construir melhores conjuntos habitacionais, com parques luxuosos e piscinas elegantes."
     },
@@ -1204,7 +1204,7 @@
       "complexity": 2,
       "learned": false,
       "played": false,
-      "rate": 0,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=catan",
       "comment": "..."
     },
