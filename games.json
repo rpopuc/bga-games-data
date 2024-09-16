@@ -1246,5 +1246,18 @@
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=trellis",
       "comment": "..."
+    },
+    {
+      "title": "Smallworld",
+      "name": "smallworld",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "time": 30,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=smallworld",
+      "comment": "..."
     }
 ]
