@@ -969,8 +969,8 @@
       "time": 14,
       "complexity": 2,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=cartographers",
       "comment": "Marcação de locais para fazer pontos. E cincundar o monstro."
     },
