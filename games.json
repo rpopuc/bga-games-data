@@ -1047,8 +1047,8 @@
       "time": 13,
       "complexity": 2,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=castlecombo",
       "comment": "Montar tabuleiro de 9 cartas com as melhores combinações."
     },
