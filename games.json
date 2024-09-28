@@ -800,8 +800,8 @@
       "time": 5,
       "complexity": 1,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=luckynumbers",
       "comment": "Colocar números em ordem crescente por coluna e linha. Pode descartar, pode substituir e usar peças da mesa."
     },
@@ -1258,6 +1258,20 @@
       "played": false,
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=smallworld",
+      "comment": "..."
+    }
+,
+    {
+      "title": "Festival",
+      "name": "festival",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "time": 14,
+      "complexity": 1,
+      "learned": false,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=festival",
       "comment": "..."
     }
 ]
