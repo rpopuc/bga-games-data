@@ -579,8 +579,8 @@
       "time": 20,
       "complexity": 1,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=rage",
       "comment": "O objetivo é fazer mais pontos de vitória.\nNo início do jogo, cada um recebe 10 cartas e tem que apostas quantas vazas consegue vencer.\nUma carta é sorteada para ser o trunfo.\nO jogador a jogar define a cor líder. Todos tem que jogar a mesma cor. Quem tiver a carta mais alta, vence a vaza.\nHá cartas que dão -5 pontos, cartas que dão 5 pontos e cartas que mudam o trunfo.\nA cada rodada a quantidade de cartas diminui.\nAo fim das cartas, quem tiver mais pontos, vence."
     },
@@ -1259,8 +1259,7 @@
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=smallworld",
       "comment": "..."
-    }
-,
+    },
     {
       "title": "Festival",
       "name": "festival",
@@ -1272,6 +1271,19 @@
       "played": false,
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=festival",
+      "comment": "..."
+    },
+    {
+      "title": "Papayoo",
+      "name": "papayoo",
+      "minPlayers": 3,
+      "maxPlayers": 8,
+      "time": 14,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=papayoo",
       "comment": "..."
     }
 ]
