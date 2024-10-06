@@ -1285,5 +1285,18 @@
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=papayoo",
       "comment": "..."
+    },
+    {
+      "title": "Faraway",
+      "name": "faraway",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "time": 6,
+      "complexity": 2,
+      "learned": true,
+      "played": false,
+      "rate": 0,
+      "link": "https://boardgamearena.com/gamepanel?game=faraway",
+      "comment": "..."
     }
 ]
