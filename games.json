@@ -774,8 +774,8 @@
       "time": 16,
       "complexity": 3,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=century",
       "comment": ""
     },
@@ -1255,8 +1255,8 @@
       "time": 30,
       "complexity": 1,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=smallworld",
       "comment": "..."
     },
@@ -1294,8 +1294,8 @@
       "time": 6,
       "complexity": 2,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=faraway",
       "comment": "..."
     }
