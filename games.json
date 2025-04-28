@@ -1298,5 +1298,18 @@
       "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=faraway",
       "comment": "..."
+    },
+    {
+      "title": "Point Salad",
+      "name": "pointsalad",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "time": 7,
+      "complexity": 1,
+      "learned": true,
+      "played": true,
+      "rate": 3,
+      "link": "https://boardgamearena.com/gamepanel?game=pointsalad",
+      "comment": "..."
     }
 ]
