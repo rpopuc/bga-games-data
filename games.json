@@ -1311,5 +1311,18 @@
       "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=pointsalad",
       "comment": "..."
+    },
+    {
+      "title": "Flip 7",
+      "name": "flipseven",
+      "minPlayers": 3,
+      "maxPlayers": 12,
+      "time": 9,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": 3,
+      "link": "https://boardgamearena.com/gamepanel?game=flipseven",
+      "comment": "..."
     }
 ]
