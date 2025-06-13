@@ -1320,9 +1320,22 @@
       "time": 9,
       "complexity": 1,
       "learned": true,
+      "played": true,
+      "rate": 2,
+      "link": "https://boardgamearena.com/gamepanel?game=flipseven",
+      "comment": "..."
+    },
+    {
+      "title": "Slide",
+      "name": "slide",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "time": 8,
+      "complexity": 1,
+      "learned": true,
       "played": false,
       "rate": 3,
-      "link": "https://boardgamearena.com/gamepanel?game=flipseven",
+      "link": "https://boardgamearena.com/gamepanel?game=slide",
       "comment": "..."
     }
 ]
