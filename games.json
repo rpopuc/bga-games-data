@@ -1337,5 +1337,18 @@
       "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=slide",
       "comment": "..."
+    },
+    {
+      "title": "7 Wonders",
+      "name": "sevenwonders",
+      "minPlayers": 3,
+      "maxPlayers": 7,
+      "time": 7,
+      "complexity": 2,
+      "learned": true,
+      "played": true,
+      "rate": 3,
+      "link": "https://boardgamearena.com/gamepanel?game=sevenwonders",
+      "comment": "..."
     }
 ]
