@@ -32,7 +32,7 @@
       "maxPlayers": 12,
       "time": 23,
       "complexity": 2,
-      "learned": false,
+      "learned": true,
       "played": false,
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=mascarade",
@@ -1228,7 +1228,7 @@
       "maxPlayers": 4,
       "time": 13,
       "complexity": 1,
-      "learned": false,
+      "learned": true,
       "played": false,
       "rate": 0,
       "link": "https://boardgamearena.com/gamepanel?game=seasaltpaper",
@@ -1349,6 +1349,19 @@
       "played": true,
       "rate": 3,
       "link": "https://boardgamearena.com/gamepanel?game=sevenwonders",
+      "comment": "..."
+    },
+    {
+      "title": "Double Seven",
+      "name": "doubleseven",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "time": 10,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": null,
+      "link": "https://boardgamearena.com/gamepanel?game=doubleseven",
       "comment": "..."
     }
 ]
