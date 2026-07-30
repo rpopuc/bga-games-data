@@ -1229,8 +1229,8 @@
       "time": 13,
       "complexity": 1,
       "learned": true,
-      "played": false,
-      "rate": 0,
+      "played": true,
+      "rate": 2,
       "link": "https://boardgamearena.com/gamepanel?game=seasaltpaper",
       "comment": "..."
     },
@@ -1375,6 +1375,32 @@
       "played": false,
       "rate": null,
       "link": "https://boardgamearena.com/gamepanel?game=fliptoons",
+      "comment": "..."
+    },
+    {
+      "title": "Fugitive",
+      "name": "fugitive",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "time": 7,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": null,
+      "link": "https://boardgamearena.com/gamepanel?game=fugitive",
+      "comment": "..."
+    },
+    {
+      "title": "dnup",
+      "name": "dnup",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "time": 10,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": null,
+      "link": "https://boardgamearena.com/gamepanel?game=dnup",
       "comment": "..."
     }
 ]
