@@ -1363,5 +1363,18 @@
       "rate": null,
       "link": "https://boardgamearena.com/gamepanel?game=doubleseven",
       "comment": "..."
+    },
+    {
+      "title": "Flip Toons",
+      "name": "fliptoons",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "time": 12,
+      "complexity": 1,
+      "learned": true,
+      "played": false,
+      "rate": null,
+      "link": "https://boardgamearena.com/gamepanel?game=fliptoons",
+      "comment": "..."
     }
 ]
